@@ -1,2 +1,0 @@
-# KarinaChis.github.io
-ReactApp
